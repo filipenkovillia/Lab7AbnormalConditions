@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7AbnormalConditions", "Lab7AbnormalConditions.csproj", "{304D484F-2686-4D9B-87E1-970511C3B717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304D484F-2686-4D9B-87E1-970511C3B717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304D484F-2686-4D9B-87E1-970511C3B717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304D484F-2686-4D9B-87E1-970511C3B717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304D484F-2686-4D9B-87E1-970511C3B717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41FF210-2C94-48E1-9AF5-4C61D77DDC8C}
+	EndGlobalSection
+EndGlobal
